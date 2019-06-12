@@ -1,10 +1,11 @@
 ---
 title: Primera publicación
 layout: post
-date: 2018-01-19T00:00:00.000+00:00
+date: 
 sub_heading: ''
 tags: []
 related_posts: []
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 
 ---
 ## Primera publicación
