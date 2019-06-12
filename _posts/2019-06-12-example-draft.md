@@ -5,7 +5,7 @@ date:
 sub_heading: ''
 tags: []
 related_posts: []
-banner_image: "/uploads/2018/02/17/bridge.jpg"
+banner_image: ''
 
 ---
 ## Primera publicación
