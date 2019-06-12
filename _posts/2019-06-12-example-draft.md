@@ -1,7 +1,7 @@
 ---
 title: Primera publicación
 layout: post
-date: 
+date: 2019-06-11 22:00:00 +0000
 sub_heading: ''
 tags: []
 related_posts: []
